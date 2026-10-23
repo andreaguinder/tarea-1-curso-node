@@ -1,6 +1,6 @@
 # Tarea 1 - Introducción a Node
 
-Primeros usos de Node en la consola, importación del módulo "os" para el sistema operativo, consultas al mismo, creación, exportación e importación de una función y salida en consola.
+Primeros pasos en Node.js ejecutando código fuera del navegador, importación del módulo nativo "os" para consultar el sistema operativo y la memoria del equipo, y creación, exportación e importación de un módulo propio.
 
 ---
 
@@ -9,23 +9,30 @@ Primeros usos de Node en la consola, importación del módulo "os" para el siste
 Sigue estos pasos para clonar el repositorio e iniciar la aplicación localmente:
 
 ### 1. Clonar el repositorio
-```bash
-git clone [https://github.com/andreaguinder/gestion-de-productos-angular.git](https://github.com/andreaguinder/gestion-de-productos-angular.git)
-```
-
-### 2. Abrir la terminal en el editor de código y mostrar salida
 
 ```bash
-    npm install
+git clone [https://github.com/andreaguinder/tarea-1-curso-node.git](https://github.com/andreaguinder/tarea-1-curso-node.git)
+cd tarea-1-curso-node
 ```
+### 2. Ejecutar la aplicación
 
+Ejecutar el proyecto directamente con Node:
+```bash
+    node app.js
+```
+O ejecutar utilizando el script de desarrollo configurado en package.json
 ```bash
     npm run dev
 ```
 
-## Capturas de pantalla
+## 🖥️ Ejemplo de Salida en Consola
 
-En la carpeta proyecto, para ver el Ejemplo de salida en consola.
+Hola Andy, bienvenido a la clase para aprender Node.js.
+Sistema operativo: win32
+Nombre de usuario: MSI
+Memoria total: 31.71 GB
+Memoria total: 32 GB
+Memoria libre: 13.15 GB
 
 ## 👤 Créditos y Datos de la Entrega
 
@@ -39,4 +46,4 @@ Entrega: Tarea N° 1
 
 ## 📚 Bibliografía y Fuentes
 
-Documentación oficial de la Universidad Tecnológica Nacional, del curso de Node.js
+Material de lectura y documentación oficial del Curso de Node.js de la Universidad Tecnológica Nacional (UTN).
