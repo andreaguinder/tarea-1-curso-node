@@ -28,11 +28,13 @@ O ejecutar utilizando el script de desarrollo configurado en package.json
 ## 🖥️ Ejemplo de Salida en Consola
 
 Hola Andy, bienvenido a la clase para aprender Node.js.
+Tu tiempo de actividad del sistema es de: 730 horas y 51 minutos.
+Algunos datos del sistema operativo:
 Sistema operativo: win32
 Nombre de usuario: MSI
 Memoria total: 31.71 GB
 Memoria total: 32 GB
-Memoria libre: 13.15 GB
+Memoria libre: 12.10 GB
 
 ## 👤 Créditos y Datos de la Entrega
 
