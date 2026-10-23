@@ -1,0 +1,22 @@
+{
+  "name": "tarea-node",
+  "version": "1.0.0",
+  "description": "Primera tarea del curso Node.js de UTN",
+  "keywords": [
+    "Node",
+    "backend",
+    "utn",
+    "tarea",
+    "introduccion",
+    "npm"
+  ],
+  "license": "ISC",
+  "author": "Andrea Belén Guinder Vichich",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "test": "",
+    "start": ""
+  }
+}
